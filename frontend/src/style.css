@@ -1,0 +1,11 @@
+/* src/styles/app.css */
+#app {
+  font-family: Roboto, sans-serif;
+}
+.v-card {
+  margin-top: 20px;
+}
+
+.v-pagination {
+  margin: 10px 0;
+}
