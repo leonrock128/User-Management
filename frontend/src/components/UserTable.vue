@@ -2,7 +2,7 @@
   <v-container fluid>
     <v-card>
       <v-card-title class="d-flex justify-space-between align-center">
-        <span class="text-h5">User Management</span>
+        <span class="text-h5 font-weight-bold">User Management</span>
         <v-btn 
           color="primary" 
           @click="fetchUsersFromAPI"

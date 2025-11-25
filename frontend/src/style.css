@@ -9,3 +9,9 @@
 .v-pagination {
   margin: 10px 0;
 }
+
+.v-data-table thead th {
+  font-size: 17px !important;
+  font-weight: 700 !important;
+}
+
